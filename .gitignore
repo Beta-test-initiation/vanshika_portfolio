@@ -1,0 +1,17 @@
+# Next.js build output
+.next/
+
+# Dependencies
+/node_modules
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional: Mac file that stores custom attributes
+.DS_Store
+
+# Optional: Yarn Integrity file
+.yarn-integrity
